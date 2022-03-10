@@ -79,7 +79,7 @@ body {
 h1 {
     font-size: 0.8em;
     letter-spacing: 8px;
-    color: #fff;
+    color: #ff0010;
 
 }
 p.agileinfo {
@@ -112,7 +112,7 @@ p.agileinfo a:hover {
     margin-bottom: 15px;
 }
 .w3layouts-newsletter h2 {
-    color: #000000;
+    color: #ff0010;
     font-size: 0.65em;
     letter-spacing: 0px;
 	margin-bottom:15px;
